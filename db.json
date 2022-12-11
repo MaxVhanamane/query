@@ -1,0 +1,64 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "The Flash",
+      "alterEgo": "Barry Allen",
+      "id": 4
+    },
+    {
+      "name": "Spiderman",
+      "alterEgo": "Peter parker",
+      "id": 5
+    },
+    {
+      "name": "Max",
+      "alterEgo": "Max vhanamane",
+      "id": 6
+    },
+    {
+      "name": "Jake",
+      "alterEgo": "Gylanhal",
+      "id": 7
+    },
+    {
+      "name": "Max",
+      "alterEgo": "Sam",
+      "id": 8
+    },
+    {
+      "name": "ed",
+      "alterEgo": "",
+      "id": 9
+    },
+    {
+      "name": "ed",
+      "alterEgo": "ad",
+      "id": 10
+    },
+    {
+      "name": "ed",
+      "alterEgo": "ad",
+      "id": 11
+    },
+    {
+      "name": "edfdaf",
+      "alterEgo": "ad",
+      "id": 12
+    }
+  ]
+}
