@@ -26,7 +26,7 @@ export default function Login() {
 
   }
   const handleGoogleLogin =  () => {
-    window.open(`http://localhost:5000/auth/google`,"_self")
+    window.open(`https://deckerbackend.cyclic.app/auth/google`,"_self")
 
   }
   const handleGithubLogin =  () => {
